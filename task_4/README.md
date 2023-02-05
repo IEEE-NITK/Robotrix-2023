@@ -22,6 +22,10 @@ https://user-images.githubusercontent.com/93539029/215262778-c355de5a-a03b-44cc-
 
 ### Submission Instructions
 - On the screen recorder, run the simulation.
+- Submission folder should consist:
+1. Matlab Files
+2. Fusion Files
+3. Screen Recorded Video named as *task4video_Teamname*.
 - Compress the submission folder and name it as *task4_teamname*.
 - Submit the compressed folder in the following link:
 [task4 Submission](https://forms.gle/UKaf5WUoewafgH2u7)
